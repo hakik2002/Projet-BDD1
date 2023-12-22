@@ -1,5 +1,4 @@
-# Projet-BDD1
-
+Projet-BDD1
 Présentation
 Ce projet est une application de gestion de base de données développée par Oussama Hakik. L'application permet aux utilisateurs de gérer des dépendances fonctionnelles, des tables et d'effectuer diverses analyses sur la base de données.
 
@@ -22,8 +21,7 @@ Supprimer une Table : Supprimer une table existante de la base de données.
 
 Problèmes Connus
 Messages d'Erreur lors de l'Ajout de Dépendances : Lors de l'ajout d'une dépendance fonctionnelle, le programme peut afficher un message d'erreur, mais la dépendance est ajoutée avec succès. Il s'agit d'un problème connu qui n'affecte pas la fonctionnalité.
-
-Fonctionnalités Incomplètes :
-
+Fonctionnalités Incomplètes
 La vérification de savoir si une dépendance fonctionnelle satisfait certaines conditions n'est pas entièrement implémentée.
 En raison de contraintes de temps, certaines fonctionnalités, en particulier celles liées à l'analyse des dépendances, peuvent ne pas être complètes.
+Remarque : Malheureusement, le répertoire .bzr (ou .git si vous utilisez Git) n'a pas été créé pour ce projet, car le temps limité n'a pas permis d'implémenter la gestion de versions.
