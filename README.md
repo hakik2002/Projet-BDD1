@@ -1,6 +1,6 @@
 Projet-BDD1
 Présentation
-Ce projet est une application de gestion de base de données développée par Oussama Hakik. L'application permet aux utilisateurs de gérer des dépendances fonctionnelles, des tables et d'effectuer diverses analyses sur la base de données.
+Ce projet est une application de gestion de base de dependences fonctionnelles développée par Oussama Hakik. L'application permet aux utilisateurs de gérer des dépendances fonctionnelles, des tables et d'effectuer diverses analyses sur la base de données.
 
 Fonctionnalités
 Ajouter une Dépendance : Ajouter des dépendances fonctionnelles à la base de données.
